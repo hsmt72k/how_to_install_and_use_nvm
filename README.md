@@ -1,5 +1,23 @@
 ## NVM(Node.js version manager) for Windowsで複数バージョンのNode.jsを使用する
 
+``` diff
+{
++   "useLocaleNames": {
++     "en": "English",
++     "ja": "Japanese"
++   },
+    "Header": {
+      "Home": "Home",
+      "Dashboard": "Dashboard",
+      "Newsletter": "Newsletter"
+    },
+    "Home": {
+      "Demo project": "Demo project",
+      "Nested layouts in Nextjs": "Nested layouts in Next.js"
+    }
+  }
+```
+
 ### NVM の必要性
 
 開発環境において、Node.jsを使用する場面が増えてきました。
