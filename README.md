@@ -1,9 +1,9 @@
 ## NVM(Node.js version manager) for Windowsで複数バージョンのNode.jsを使用する
 
 ``` diff
-{
+ {
 +   "useLocaleNames": {
-+     "en": "English",
+-     "en": "English",
 +     "ja": "Japanese"
 +   },
     "Header": {
